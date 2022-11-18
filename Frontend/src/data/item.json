@@ -1,0 +1,89 @@
+[
+    {
+        "id":1,
+        "name":"ChitoClot Gauze   (5x40 | 8 ply)",
+        "comission":300,
+        "imgurl":"https://www.anscare.com/uploads/images/products/Hemostasis/03-Product_Gauze_750x700(1).jpg"
+    },
+    {
+        "id":2,
+        "name":"ChitoClot Gauze  (10x80 | 8 ply)",
+        "comission":700,
+        "imgurl":"https://www.anscare.com/uploads/images/products/Hemostasis/03-Product_Gauze_750x700(1).jpg"
+    },
+    {
+        "id":3,
+        "name":"ChitoClot Gauze (10x40 | 4 ply)",
+        "comission":500,
+        "imgurl":"https://www.anscare.com/uploads/images/products/Hemostasis/03-Product_Gauze_750x700(1).jpg"
+    },
+    {
+        "id":4,
+        "name":"ChitoClot Gauze (10x10)",
+        "comission":200,
+        "imgurl":"https://www.anscare.com/uploads/images/products/Hemostasis/03-Product_Gauze_750x700(1).jpg"
+    },
+    {
+        "id":5,
+        "name":"ChitoClot Bandage (12x10 rec)",
+        "comission":150,
+        "imgurl":"https://www.anscare.com/uploads/images/products/Hemostasis/03-Product_Bandage_750x700(1).jpg"
+    },
+    {
+        "id":6,
+        "name":"ChitoClot Bandage (6x20 rec)",
+        "comission":300,
+        "imgurl":"https://www.anscare.com/uploads/images/products/Hemostasis/03-Product_Bandage_750x700(1).jpg"
+    },
+
+    {
+        "id":9,
+        "name":"LeniScar Silicone Sticks (9.2g)",
+        "comission":1000,
+        "imgurl":"https://www.anscare.com/uploads/images/products/scarcare/03_product_stick_g2_750x700.jpg"
+    },
+    {
+        "id":10,
+        "name":"LeniScar Silicone Sticks (4.0g)",
+        "comission":1000,
+        "imgurl":"https://www.anscare.com/uploads/images/products/scarcare/03_product_stick_g2_750x700.jpg"
+    },
+   
+    {
+        "id":12,
+        "name":"Healus Hydrogel dressing",
+        "comission":400,
+        "imgurl":"https://www.anscare.com/uploads/images/products/wound-care/03-Product_Healus-Hydrogel-Dressing_750x700.jpg"
+    },
+    {
+        "id":13,
+        "name":"SIMO System  (Dressing 10X10)",
+        "comission":600,
+        "imgurl":"https://www.anscare.com/uploads/images/products/Hemostasis/03-Product_SIMO_750x700.jpg"
+    },
+    {
+        "id":14,
+        "name":"SIMO System  (Dressing 10X20)",
+        "comission":600,
+        "imgurl":"https://www.anscare.com/uploads/images/products/Hemostasis/03-Product_SIMO_750x700.jpg"
+    },
+       {
+        "id":7,
+        "name":"Healus Wound Gel (25g)",
+        "comission":300,
+        "imgurl":"https://www.anscare.com/uploads/images/products/wound-care/03-Product_Wound-Gel_750x700.jpg"
+    },
+    {
+        "id":8,
+        "name":"Scar Reduction Silicone Gel C+ (15g)",
+        "comission":400,
+        "imgurl":"https://www.anscare.com/uploads/images/products/scarcare/03-Product_Silicone-Gel-C+_750x700.jpg"
+    },
+    {
+        "id":11,
+        "name":"Negative Pressure Wound Therapy  (NPWT)",
+        "comission":500,
+        "imgurl":"https://www.anscare.com/uploads/images/products/03-Product-TopBanner-880x460-04.jpg"
+    }
+
+]
